@@ -94,7 +94,7 @@ Source: [github.com/PolymerLabs/polyicon](https://github.com/PolymerLabs/polyico
 
 ## Development tools {#dev}
 
-### <b>&lt;seed-element></b>—boilerplate starter for creating a resuable element on Github {#seedelement}
+### <b>&lt;seed-element></b>—boilerplate starter for creating a reusable element on Github {#seedelement}
 
 See [Create a reusable element](/1.0/docs/start/reusableelements.html).
 
